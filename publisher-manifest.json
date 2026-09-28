@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7558f5335571b6c2bfc5c9bf",
+  "owner": "pdwnavmh",
+  "repo": "page-c0c5dec061aa3bef678db435",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c0c5dec061aa3bef678db435",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7924e2d51f58ce95b40c4fbddb956924312f418d7bf730286ca090afc1209ced",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供多种VPN套餐，高速流量支持，多设备在线，官网客户端下载入口。",
+          "AI_DESCRIPTION": "龙猫云提供多种VPN套餐，高速流量支持，多设备在线，官网客户端下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    <style>\n        body {\n            margin: 0;\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: #f8f4ed;\n            color: #333333;\n            line-height: 1.7;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        nav {\n            background-color: #2E5A4A;\n            color: #ffffff;\n            padding: 1rem 0;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: #ffffff;\n        }\n        nav ul {\n            display: flex;\n            gap: 2.5rem;\n            list-style: none;\n            margin: 0;\n            padding: 0;\n        }\n        nav a {\n            color: #ffffff;\n            text-decoration: none;\n            font-size: 1.1rem;\n            transition: color 0.3s;\n        }\n        nav a:hover {\n            color: #a8d5c2;\n        }\n        .hero {\n            padding: 120px 20px 80px;\n            text-align: center;\n            background: linear-gradient(to bottom, #f8f4ed, #e8e0d0);\n        }\n        .hero h1 {\n            font-size: 4.5rem;\n            margin: 0 0 1rem;\n            color: #2E5A4A;\n        }\n        .hero p {\n            font-size: 1.5rem;\n            margin: 0 0 2rem;\n            color: #555555;\n        }\n        .section {\n            padding: 60px 20px;\n        }\n        h2 {\n            font-size: 2.2rem;\n            color: #2E5A4A;\n            margin-bottom: 1.5rem;\n            text-align: center;\n        }\n        details {\n            background: #ffffff;\n            margin-bottom: 1.5rem;\n            border: 1px solid #e8e0d0;\n            border-radius: 8px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.2rem;\n            color: #2E5A4A;\n        }\n        p {\n            margin: 0.5rem 0;\n        }\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 3rem;\n            }\n            nav ul {\n                gap: 1.5rem;\n            }\n            .section h2 {\n                font-size: 1.8rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <div class=\"container\">\n                <div class=\"logo\">龙猫云</div>\n                <ul>\n                    <li><a href=\"#plans\">套餐选择</a></li>\n                    <li><a href=\"#clients\">客户端</a></li>\n                    <li><a href=\"#faq\">常见问题</a></li>\n                </ul>\n            </div>\n        </nav>\n        <section class=\"hero\">\n            <h1>龙猫云</h1>\n            <p>VPN 加速器</p>\n            <p>客户端选择</p>\n        </section>\n        <section id=\"intro\" class=\"section\">\n            <h2>品牌简介</h2>\n            <p>龙猫云专注于提供优质的VPN加速服务，帮助用户实现高速稳定网络连接。</p>\n        </section>\n        <section id=\"use\" class=\"section\">\n            <h2>使用场景</h2>\n            <p>适用于个人用户日常浏览、团队企业办公以及流媒体娱乐需求。</p>\n        </section>\n        <section id=\"ops\" class=\"section\">\n            <h2>操作说明</h2>\n            <p>访问官网下载客户端，完成注册后即可连接加速节点使用。</p>\n        </section>\n        <section id=\"plans\" class=\"section\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\" class=\"section\">\n            <h2>客户端选择</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\" class=\"section\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何选择适合我的套餐？</summary>\n                <p>根据您的设备数量和流量需求，选择基础版、旗舰版或团队版。</p>\n            </details>\n            <details>\n                <summary>龙猫云支持哪些设备？</summary>\n                <p>支持多台设备同时在线，具体取决于套餐级别。</p>\n            </details>\n            <details>\n                <summary>加速器能解锁流媒体吗？</summary>\n                <p>旗舰版及以上套餐支持全节点原生流媒体解锁。</p>\n            </details>\n            <details>\n                <summary>是否提供游戏加速服务？</summary>\n                <p>旗舰版提供IPLC专线游戏加速优化。</p>\n            </details>\n            <details>\n                <summary>企业用户支持如何？</summary>\n                <p>团队版提供VIP专属高带宽节点、定制路由及专属客户经理。</p>\n            </details>\n        </section>\n    </main>\n\n",
+          "hash": "87f98baa28b6a6bd3df892a5af8b04ccdab62b8be3b32a3b7c3dbd3f04229d7b",
+          "seo": {
+            "title": "龙猫云VPN加速器 | 客户端下载",
+            "keywords": "龙猫云, VPN加速器, 客户端下载, 机场, 官网",
+            "description": "龙猫云提供多种VPN套餐，高速流量支持，多设备在线，官网客户端下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ytixyf.cn",
+    "host": "a.ytixyf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "83ae960ca8634576904beb576b98950f5d4de40a162fbd585512ae4285506add",
+    "sitemap.xml": "9a135ccb792e71baa4a6299e55e5830c78b8339684eecdf16784d20437bf0f80",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "40511791f0b46744c9a6f424ee8883400252f97b80e741c05f3ecca96075e06b",
+    "robots.txt": "160d5299c8ac4fdfe5828e1dbe0c5ca0b7e6c2048ea17584584f3ab5beea750d",
+    "349a50aa31bdf0f4f9d8f1cc4b38769a.txt": "6a323716649371ce8c40f39b91a5cc2924444c7e8bf52c223216c133c4a7e4b1"
+  },
+  "revision": "6975ac6e3595771b1d1d76af1fa9e106794d810d32b4b601d66c38a725bc8d2c"
+}
